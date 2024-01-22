@@ -6,14 +6,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Digital Craftsman (Frontend Developer/Filmmaker)
 ----------------------------
 
-I'm a professional front-end-developer and a video editor. Still learing new skills and exploring new things to perfect my craft.
-
+<p align=center>
+I'm a professional front-end-developer and a video editor. Still learing new skills and exploring new things to perfect my craft. </p>
+<p align=center>
 * ✉️  You can contact me at [fahad.iqbal.im.47@gmail.com](mailto:fahad.iqbal.im.47@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on "just hit me up"
-* ⚡  Did aliens build the pyramids?
+* ⚡  Did aliens build the pyramids? </p>
   
-### <p align="center">Skills</p>
+### <p align=center> Skills</p>
 
 
 <p align="center">
