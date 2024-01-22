@@ -13,7 +13,7 @@ I'm a professional front-end-developer and a video editor. Still learing new ski
 * 🤝  I'm open to collaborating on "just hit me up"
 * ⚡  Did aliens build the pyramids?
   
-### Skills
+### <p align="center">Skills</p>
 
 
 <p align="center">
