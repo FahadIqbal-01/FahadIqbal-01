@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fahad Iqbal
 ===================================================================================================================================
 
-**`Digital Craftsman (Frontend Developer/Filmmaker)
+Digital Craftsman (Frontend Developer/Filmmaker)
 ----------------------------
 
 I'm a professional front-end-developer and a video editor. Still learing new skills and exploring new things to perfect my craft.
