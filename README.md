@@ -8,12 +8,12 @@ Digital Craftsman (Frontend Developer/Filmmaker)
 
 <p align=center>
 I'm a professional front-end-developer and a video editor. Still learing new skills and exploring new things to perfect my craft. </p>
-<p align=center> <br><br>
+<p align=center> 
 * ✉️  You can contact me at [fahad.iqbal.im.47@gmail.com](mailto:fahad.iqbal.im.47@gmail.com) <br>
 * 🧠  I'm learning React <br>
 * 🤝  I'm open to collaborating on "just hit me up" <br>
 * ⚡  Did aliens build the pyramids? </p>    
-
+<br>
   
 ### <p align=center> Skills</p>
 
