@@ -31,7 +31,6 @@ I'm a professional front-end-developer and a video editor. Still learing new ski
 
 <a href="http://www.github.com/FahadIqbal-01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadIqbal-01&stroke=ffffff&background=000000&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/FahadIqbal-01"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=FahadIqbal-01&bg_color=000000&color=ffffff&line=facc15&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/FahadIqbal-01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadIqbal-01&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
