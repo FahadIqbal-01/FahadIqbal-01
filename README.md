@@ -1,7 +1,7 @@
 ![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/FahadIqbal-01/FahadIqbal-01/assets/156792838/f90adfb1-4969-4fcc-ab7e-73215f01703c)
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fahad Iqbal
+<p align=centere> Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fahad Iqbal </p>
 ===================================================================================================================================
 
 Digital Craftsman (Frontend Developer/Filmmaker)
