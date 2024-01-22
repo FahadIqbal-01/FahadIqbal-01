@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-# 🏄‍♂️ Forrest Knight
+# Fahad Iqbal
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman (Developer/Filmmaker)`**
 
 I'm a professional front-end-developer and a video editor. Still learing new skills and exploring new things to perfect my craft. 
 
