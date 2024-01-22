@@ -7,8 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Digital Craftsman (Frontend Developer/Filmmaker)
 ---------------------------- 
 
-<p align=left>
-I'm a professional front-end-developer and a video editor. Still learing new skills and exploring new things to perfect my craft. </p>
+
 <p align=left> 
 * ✉️  You can contact me at [fahad.iqbal.im.47@gmail.com](mailto:fahad.iqbal.im.47@gmail.com) <br>
 * 🧠  I'm learning React <br>
