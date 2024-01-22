@@ -13,7 +13,6 @@ Digital Craftsman (Frontend Developer/Filmmaker)
 * 🧠  I'm learning React <br>
 * 🤝  I'm open to collaborating on "just hit me up" <br>
 * ⚡  Did aliens build the pyramids? </p>    
-<br>
   
 ### <p align=left> Skills</p>
 
