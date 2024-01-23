@@ -36,7 +36,9 @@ Digital Craftsman (Frontend Developer)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadiqbal-01&show_icons=true&locale=en&layout=compact" alt="fahadiqbal-01" /></p>
 
 
+![](https://raw.githubusercontent.com/FahadIqbal-01/github-stats-transparent/main/readme_images/light.png)
 
+![](https://raw.githubusercontent.com/FahadIqbal-0/github-stats-transparent/main/readme_images/dark.png)
  
 
 
