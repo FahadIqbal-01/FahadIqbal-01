@@ -31,7 +31,7 @@ Digital Craftsman (Frontend Developer)
 
 
 <div style="display: flex; flex-direction: row;">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadiqbal-01&?theme=vision-friendly-dark&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadiqbal-01&theme=dark&show_icons=true?theme=vision-friendly-dark)
 </div>
 
 
