@@ -20,6 +20,7 @@ Digital Craftsman (Frontend Developer)
 <img width="100" height="100" src="[https://picsum.photos/100/100](https://github.com/fahadiqbal-01/fahadiqbal-01/assets/156792838/bcc9642d-afe7-49e4-93b7-f2ac3e0cd24e)">
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
+![icon-animation](https://github.com/fahadiqbal-01/fahadiqbal-01/assets/156792838/46966425-af48-46ad-8cd4-61836b5b1bba)
 
 
 
