@@ -37,3 +37,4 @@ Digital Craftsman (Frontend Developer/Filmmaker)
 
 <a href="https://github.com/FahadIqbal-01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadIqbal-01&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&hide_progress=true)
