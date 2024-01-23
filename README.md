@@ -28,14 +28,12 @@ Digital Craftsman (Frontend Developer)
 <b>My GitHub Stats</b>
 
 
-<div align="left"> 
-<a href="https://github.com/fahadiqbal-01/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fahadiqbal-01&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Fahad Iqbal's Language stats" />
-</a> 
-<a href="https://github.com/fahadiqbal-01/github-readme-stats#gh-dark-mode-only">
-<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fahadiqbal-01&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Fahad Iqbal's Github stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-</div>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
  
 
