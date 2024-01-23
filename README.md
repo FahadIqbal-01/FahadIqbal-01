@@ -15,14 +15,12 @@ Digital Craftsman (Frontend Developer)
 * ⚡  Did aliens build the pyramids? </p>    
   
 ### <p align=left> Skills</p>
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
+![235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf](https://github.com/fahadiqbal-01/fahadiqbal-01/assets/156792838/5be712dc-8c17-4095-8cca-eb2d2f1b9006)
+ 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 
 
-![235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf](https://github.com/fahadiqbal-01/fahadiqbal-01/assets/156792838/5be712dc-8c17-4095-8cca-eb2d2f1b9006)
 
 
 ### Socials
