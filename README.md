@@ -34,7 +34,8 @@ Digital Craftsman (Frontend Developer)
 
 
 
-![235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf](https://github.com/fahadiqbal-01/fahadiqbal-01/assets/156792838/e9b5f48e-ec9f-4dc3-873e-83ae79d365ed)
+ ![235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf](https://github.com/fahadiqbal-01/fahadiqbal-01/assets/156792838/4c3155ac-6aa1-4b89-be70-a94447b06b31)
+
 <img align="right" width="100" height="100" src="https://picsum.photos/100/100">
 
 
