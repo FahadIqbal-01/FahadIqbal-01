@@ -45,7 +45,7 @@ jobs:
     name: Update stats card
     runs-on: ubuntu-latest
     steps:
-      - uses: fahadiqbal-01/github-stats-card@v1
+      - uses: datarootsio/github-stats-card@v1
         with:
           username: fahadiqbal-01
           gh_token_stats: ${{ secrets.GH_PAT }}
