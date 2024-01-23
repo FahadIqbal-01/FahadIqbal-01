@@ -36,6 +36,8 @@ Digital Craftsman (Frontend Developer)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=fahadiqbal-01&theme=highcontrast)](https://git.io/streak-stats)
 
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 
 
