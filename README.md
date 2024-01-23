@@ -33,9 +33,12 @@ Digital Craftsman (Frontend Developer)
 
 ![FahadIqbal-01's Stats](https://github-readme-stats.vercel.app/api?username=FahadIqbal-01&theme=dark&show_icons=true&hide_border=true&count_private=false)
 
-![](https://raw.githubusercontent.com/FahadIqbal-01/github-stats-transparent/main/readme_images/light.png)
+<a href="https://github.com/rahul-jha98/github-stats-transparent">
 
-![](https://raw.githubusercontent.com/FahadIqbal-0/github-stats-transparent/main/readme_images/dark.png)
+![](https://raw.githubusercontent.com/FahadIqbal-01/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/FahadIqbal-01/github-stats-transparent/output/generated/languages.svg)
+
+</a>
  
 
 
