@@ -17,11 +17,7 @@ Digital Craftsman (Frontend Developer)
 ### <p align=left> Skills</p>
 
 
-<p align="left"> 
-   <img src="./icons/Bootstrap.svg" width="48"> 
-    <img src="./icons/CSS.svg" width="48">   
-  
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 
 
 
