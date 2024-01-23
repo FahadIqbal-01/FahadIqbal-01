@@ -30,9 +30,9 @@ Digital Craftsman (Frontend Developer)
 <b>My GitHub Stats</b>
 
 
-<div style="display: flex; flex-direction: row;">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadiqbal-01&theme=dark&show_icons=true?theme=vision-friendly-dark)
-</div>
+
 
 
 
