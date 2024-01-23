@@ -30,7 +30,7 @@ Digital Craftsman (Frontend Developer)
 
 <p><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadiqbal-01&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&show&text_color=ffffff&bg_color=151515" alt="fahadiqbal-01" /></p>             
 <p><img  align="center" src="https://github-readme-stats.vercel.app/api?username=fahadiqbal-01&show_icons=true&locale=en&theme=dark&hide_border=true&show&text_color=ffffff&bg_color=&tiitle_color=6a8acf&icon_color=FFFF00" alt="fahadiqbal-01" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bigdogempire4&theme=dark&bg_color=151515&text_color=ffffff&hide_border=true&show&show_icons=true&icon_color=0000FF" alt="bigdogempire4" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahadiqbal-01&theme=dark&bg_color=151515&text_color=ffffff&hide_border=true&show&show_icons=true&icon_color=0000FF" alt="fahadiqbal-01" /></p>
 
 
 
