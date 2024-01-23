@@ -20,7 +20,7 @@ Digital Craftsman (Frontend Developer)
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
-<img alin=right src="https://github.com/fahadiqbal-01/fahadiqbal-01/assets/156792838/8e61d43f-bc22-4130-b240-7697993b31e4" alt="">
+
 
 
 
@@ -35,8 +35,6 @@ Digital Craftsman (Frontend Developer)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadiqbal-01&theme=vision-friendly-dark&show_icons=true?)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=fahadiqbal-01&theme=highcontrast)](https://git.io/streak-stats)
 
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 
