@@ -33,7 +33,7 @@ Digital Craftsman (Frontend Developer)
 
 ![FahadIqbal-01's Stats](https://github-readme-stats.vercel.app/api?username=FahadIqbal-01&theme=dark&show_icons=true&hide_border=true&count_private=false)
 
-<div align="center"> 
+<div align="left"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fahadiqbal-01&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Fahad Iqbal's Language stats" />
 </a>
