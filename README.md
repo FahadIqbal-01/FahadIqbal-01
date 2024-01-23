@@ -33,11 +33,11 @@ Digital Craftsman (Frontend Developer)
 
 ![FahadIqbal-01's Stats](https://github-readme-stats.vercel.app/api?username=FahadIqbal-01&theme=dark&show_icons=true&hide_border=true&count_private=false)
 
-<a href="https://github.com/FahadIqbal-01/github-stats-transparent">
-
-![](https://raw.githubusercontent.com/FahadIqbal-01/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/FahadIqbal-01/github-stats-transparent/output/generated/languages.svg)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
  
 
