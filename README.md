@@ -30,14 +30,7 @@ Digital Craftsman (Frontend Developer/Filmmaker)
 
 <b>My GitHub Stats</b>
 
-<div style="display: flex; flex-direction: row;">
-<div><img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsvetoslav88&theme=radical&langs_count=8&layout=compact&hide_border=true" /></div>
-
-<a href="http://www.github.com/FahadIqbal-01"><img src="https://github-readme-stats.vercel.app/api?username=FahadIqbal-01&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="FahadIqbal-01's GitHub stats" /></a> 
-</div>
-
-<a href="http://www.github.com/FahadIqbal-01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FahadIqbal-01&stroke=ffffff&background=000000&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+![FahadIqbal-01's Stats](https://github-readme-stats.vercel.app/api?username=FahadIqbal-01&theme=dark&show_icons=true&hide_border=true&count_private=false)
 
  
 
