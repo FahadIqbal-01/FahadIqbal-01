@@ -21,7 +21,7 @@ Digital Craftsman (Frontend Developer)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
 <img alin=right src="https://github.com/fahadiqbal-01/fahadiqbal-01/assets/156792838/8e61d43f-bc22-4130-b240-7697993b31e4" alt="">
-![tumblr_927b527f2141092e7eb13bfaac892e16_c49e755e_400](https://github.com/fahadiqbal-01/fahadiqbal-01/assets/156792838/8e61d43f-bc22-4130-b240-7697993b31e4)
+
 
 
 ### Socials
