@@ -30,6 +30,8 @@ Digital Craftsman (Frontend Developer)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahadiqbal-01&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&show&text_color=ffffff&bg_color=000000" alt="fahadiqbal-01" /></p>             
 
-[![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadiqbal-01&bg_color=000000&theme=github_dark&hide_border=true&show)](https://github.com/anuraghazra/github-readme-statshide) [![GitHub Streak](https://streak-stats.demolab.com/?user=fahadiqbal-01&hide_border=true&show&theme=blue_navy)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadiqbal-01&show_icons=true&locale=en&theme=dark&hide_border=true&show&text_color=ffffff&bg_color=000000&tiitle_color=6a8acf&icon_color=0000FF" alt="fahadiqbal-01" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fahadiqbal-01&hide_border=true&show&theme=blue_navy)](https://git.io/streak-stats)
 
 
