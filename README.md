@@ -31,9 +31,10 @@ Digital Craftsman (Frontend Developer)
 <b>My GitHub Stats</b>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadiqbal-01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)               ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadiqbal-01&theme=vision-friendly-dark&show_icons=true?) [![GitHub Streak](https://streak-stats.demolab.com/?user=fahadiqbal-01&theme=highcontrast)](https://git.io/streak-stats)
-<img src="(https://github.com/fahadiqbal-01/fahadiqbal-01/assets/156792838/3909b19f-ebec-4fca-9e83-c50d9b258b06)" align=right>
 
 
 
+![235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf](https://github.com/fahadiqbal-01/fahadiqbal-01/assets/156792838/e9b5f48e-ec9f-4dc3-873e-83ae79d365ed)
+<img align="right" width="100" height="100" src="https://picsum.photos/100/100">
 
 
