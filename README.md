@@ -31,7 +31,7 @@ Digital Craftsman (Frontend Developer)
 
 
 <div style="display: flex; flex-direction: row;">
-https://github-readme-streak-stats.herokuapp.com/?user=fahadiqbal-01
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadiqbal-01&?theme=vision-friendly-dark&theme=dark&show_icons=true)
 </div>
 
 
