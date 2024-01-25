@@ -11,7 +11,7 @@ Digital Craftsman (Frontend Developer)
 
 <div align=left> 
 * ✉️  You can contact me at [fahad.iqbal.im.47@gmail.com](mailto:fahad.iqbal.im.47@gmail.com) <br>
-* 🧠  I'm learning React <br>
+* 🧠  I'm learning JavaScript, React <br>
 * 🤝  I'm open to collaborating on "just hit me up" <br>
 * ⚡  Did aliens build the pyramids? </p>    
   
